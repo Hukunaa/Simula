@@ -1,0 +1,5 @@
+﻿Simula.obj : error LNK2019: symbole externe non résolu _glfwInit référencé dans la fonction _main
+Simula.obj : error LNK2019: symbole externe non résolu _glfwTerminate référencé dans la fonction _main
+Simula.obj : error LNK2019: symbole externe non résolu _glfwCreateWindow référencé dans la fonction _main
+C:\Users\Hukuna\source\repos\Simula\Simula\librairies\glfw3.lib : warning LNK4272: type d'ordinateur bibliothèque 'x64' en conflit avec le type d'ordinateur cible 'x86'
+C:\Users\Hukuna\source\repos\Simula\Debug\Simula.exe : fatal error LNK1120: 3 externes non résolus
